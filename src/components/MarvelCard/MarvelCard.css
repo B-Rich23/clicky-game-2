@@ -1,7 +1,0 @@
-.marvel {
-    transition: all 1s;
-}
-
-.marvel:hover {
-    transform: scale(1.1)
-}
