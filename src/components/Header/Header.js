@@ -6,6 +6,9 @@ const Header = props => (
         <div className="title">
             {props.children} 
         </div>
+        <div className="instructions">
+        Don't click the same card twice!
+        </div>    
         <div className="scores">
             Score:  {props.score} Highscore:  {props.highscore}
         </div>

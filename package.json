@@ -2,9 +2,9 @@
   "name": "clicky-game",
   "version": "0.1.0",
   "private": true,
+  "gh-pages": "^1.1.0",
+  "homepage": "https://b-rich23.github.io/clicky-game-2",
   "dependencies": {
-    "gh-pages": "^1.1.0",
-    "homepage": "https://b-rich23.github.io/clicky-game",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-scripts": "1.1.1"
